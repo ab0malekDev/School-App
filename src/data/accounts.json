@@ -1,0 +1,76 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "مدير النظام",
+      "permissions": ["all"]
+    },
+    {
+      "id": 2,
+      "username": "math_teacher",
+      "password": "math123",
+      "role": "math-role",
+      "name": "أحمد محمد",
+      "permissions": ["view_courses", "manage_students", "edit_math_content"]
+    },
+    {
+      "id": 3,
+      "username": "physics_teacher",
+      "password": "physics123",
+      "role": "physics-role",
+      "name": "سارة أحمد",
+      "permissions": ["view_courses", "manage_students", "edit_physics_content"]
+    },
+    {
+      "id": 4,
+      "username": "chemistry_teacher",
+      "password": "chemistry123",
+      "role": "chemistry-role",
+      "name": "محمد علي",
+      "permissions": ["view_courses", "manage_students", "edit_chemistry_content"]
+    },
+    {
+      "id": 5,
+      "username": "biology_teacher",
+      "password": "biology123",
+      "role": "biology-role",
+      "name": "فاطمة أحمد",
+      "permissions": ["view_courses", "manage_students", "edit_biology_content"]
+    },
+    {
+      "id": 6,
+      "username": "arabic_teacher",
+      "password": "arabic123",
+      "role": "arabic-role",
+      "name": "علي محمد",
+      "permissions": ["view_courses", "manage_students", "edit_arabic_content"]
+    },
+    {
+      "id": 7,
+      "username": "english_teacher",
+      "password": "english123",
+      "role": "english-role",
+      "name": "نورا أحمد",
+      "permissions": ["view_courses", "manage_students", "edit_english_content"]
+    },
+    {
+      "id": 8,
+      "username": "french_teacher",
+      "password": "french123",
+      "role": "french-role",
+      "name": "سامي محمد",
+      "permissions": ["view_courses", "manage_students", "edit_french_content"]
+    },
+    {
+      "id": 9,
+      "username": "islamic_teacher",
+      "password": "islamic123",
+      "role": "islamic-role",
+      "name": "خالد أحمد",
+      "permissions": ["view_courses", "manage_students", "edit_islamic_content"]
+    }
+  ]
+} 

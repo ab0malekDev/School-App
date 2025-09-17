@@ -1,0 +1,256 @@
+{
+  "subjects": [
+    {
+      "id": "1",
+      "name": "الرياضيات",
+      "image": "math.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "تذكرة ب المتتاليات والاثبات ب التدريج",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "التوابع / النهايات والاستمرار",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "التوابع / الاشتقاق",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "4",
+          "name": "نهاية متتالية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "5",
+          "name": "التبع اللوغاريتمي النيبري",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "6",
+          "name": "التابع الاسي",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "7",
+          "name": "التكامل والتوابع الاصلية",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "الفيزياء",
+      "image": "physics.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "الحركة والتحريك",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "الكهرباء والمغناطيسية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "الأمواج المستقرة",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "4",
+          "name": "الالكترونيات والجسم الصلب",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "5",
+          "name": "الفيزياء الفلكية",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "الكيمياء",
+      "image": "chemistry.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "الكيمياء النووية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "الغازات",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "حركية التفاعلات الكيميائية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "4",
+          "name": "الكيمياء التحليلية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "5",
+          "name": "الكيمياء العضوية",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "علم الأحياء",
+      "image": "biology.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "التنسيق العصبي",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "تكاثر الكائنات الحية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "الوراثة",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "اللغة العربية",
+      "image": "arabic.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "القضايا الوطنية والقومية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "الغربة والاغتراب في الادب المهجري",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "في الرواية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "4",
+          "name": "ظواهر وجدانية",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "5",
+          "name": "ادب القضايا الاجتماعية",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "اللغة الإنجليزية",
+      "image": "english.jpg",
+      "units": [
+        {
+          "id": "1",
+          "name": "Unit 1",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "2",
+          "name": "Unit 2",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "3",
+          "name": "Unit 3",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "4",
+          "name": "Unit 4",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "5",
+          "name": "Unit 5",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "6",
+          "name": "Unit 6",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "7",
+          "name": "Unit 7",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "8",
+          "name": "Unit 8",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "9",
+          "name": "Unit 9",
+          "lessons": [],
+          "quizzes": []
+        },
+        {
+          "id": "10",
+          "name": "Unit 10",
+          "lessons": [],
+          "quizzes": []
+        }
+      ]
+    }
+  ]
+} 

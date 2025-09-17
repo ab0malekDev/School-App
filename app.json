@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Bayroni",
+    "slug": "bayroni",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ab0malek.bayroni",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "permissions": [
+        "INTERNET",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "MEDIA_LIBRARY",
+        "READ_MEDIA_VIDEO"
+      ],
+      "package": "com.ab0malek.bayroni"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "716a9b07-988c-447f-93f9-d64fbf4f51be"
+      }
+    }
+  }
+}
