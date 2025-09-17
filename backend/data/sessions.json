@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "id": "1750854627933",
+      "token": "ed9719d02940cfb7dfffd6d356b561fceaae28bc9a4035109fc1061cc35ff04f",
+      "userId": "1",
+      "userRole": "admin",
+      "username": "admin",
+      "createdAt": "2025-06-25T12:30:27.933Z",
+      "expiresAt": "2025-06-26T12:30:27.933Z",
+      "isActive": true
+    }
+  ]
+}

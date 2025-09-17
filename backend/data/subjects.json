@@ -1,0 +1,364 @@
+{
+  "subjects": [
+    {
+      "id": "1750013255723",
+      "name": "فيزياء",
+      "section": "scientific",
+      "image": "1750013255696.jpeg",
+      "units": [
+        {
+          "id": "1750193831248",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "1750497059265",
+              "name": "Q",
+              "description": "Q",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750497061231",
+                  "title": "Q",
+                  "description": "Q",
+                  "order": 0,
+                  "url": "/uploads/videos/1750497061217-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T09:11:01.231Z"
+                }
+              ],
+              "quizzes": [
+                {
+                  "id": "1750512759340",
+                  "title": "Dhdhdh",
+                  "questions": [
+                    {
+                      "id": "1750512759340_0",
+                      "question": "Dhdbdh",
+                      "choices": [
+                        "Dbdhd",
+                        "Bdbd",
+                        "Dhd",
+                        "Dbd"
+                      ],
+                      "correctIndex": 3
+                    },
+                    {
+                      "id": "1750512759340_1",
+                      "question": "Dnd",
+                      "choices": [
+                        "Dbdb",
+                        "Bd",
+                        "Xhdhd",
+                        "Nxn"
+                      ],
+                      "correctIndex": 1
+                    }
+                  ]
+                },
+                {
+                  "id": "1750513418866",
+                  "title": "عناوين الاختبار",
+                  "questions": [
+                    {
+                      "id": "1750513418866_0",
+                      "question": "السؤال هنا",
+                      "choices": [
+                        "١",
+                        "٢",
+                        "٣",
+                        "٤"
+                      ],
+                      "correctIndex": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "1750513678784",
+              "name": "تتت",
+              "description": "تت",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750513681904",
+                  "title": "تتت",
+                  "description": "تت",
+                  "order": 0,
+                  "url": "/uploads/videos/1750513681898-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T13:48:01.904Z"
+                }
+              ]
+            },
+            {
+              "id": "1750513693599",
+              "name": "ىل",
+              "description": "ةة",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750513695894",
+                  "title": "ىل",
+                  "description": "ةة",
+                  "order": 0,
+                  "url": "/uploads/videos/1750513695886-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T13:48:15.894Z"
+                }
+              ],
+              "quizzes": [
+                {
+                  "id": "1750513778443",
+                  "title": "العنوان",
+                  "questions": [
+                    {
+                      "id": "1750513778443_0",
+                      "question": "المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.المس مقطعًا مع الاستمرار لتثبيته. ستُحذف المقاطع التي تمت إزالة تثبيتها بعد ساعة واحدة.",
+                      "choices": [
+                        "تيت",
+                        "تبت",
+                        "ماتبت",
+                        "نبن"
+                      ],
+                      "correctIndex": 1
+                    },
+                    {
+                      "id": "1750513778443_1",
+                      "question": "نبزب",
+                      "choices": [
+                        "زرزر",
+                        "رزرنرننر",
+                        "رززر",
+                        "رززر"
+                      ],
+                      "correctIndex": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1750013350622",
+      "name": "كيمياء",
+      "section": "scientific",
+      "image": "1750013350590.jpeg",
+      "units": [
+        {
+          "id": "1750386557036",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": "1750446191590",
+      "name": "أحياء",
+      "section": "scientific",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284489",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": "1750446191591",
+      "name": "رياضيات",
+      "section": "scientific",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284490",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": "1750446191592",
+      "name": "لغة عربية",
+      "section": "literary",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284491",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "1750517266491",
+              "name": "ض",
+              "description": "ض",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750517371321",
+                  "title": "VID_20250618_185157.mp4",
+                  "description": "",
+                  "order": 0,
+                  "url": "/uploads/videos/1750517371294-VID_20250618_185157.mp4",
+                  "duration": 0,
+                  "size": 17509199,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T14:49:31.321Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1750446191593",
+      "name": "لغة إنجليزية",
+      "section": "literary",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284492",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": "1750446191594",
+      "name": "تربية إسلامية",
+      "section": "literary",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284493",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "1750497105738",
+              "name": "Uw",
+              "description": "Sj",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750497107749",
+                  "title": "Uw",
+                  "description": "Sj",
+                  "order": 0,
+                  "url": "/uploads/videos/1750497107741-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T09:11:47.749Z"
+                }
+              ]
+            },
+            {
+              "id": "1750497123045",
+              "name": "Shbd",
+              "description": "Xjdj",
+              "order": 0,
+              "isFree": false,
+              "videos": [
+                {
+                  "id": "1750497124852",
+                  "title": "Shbd",
+                  "description": "Xjdj",
+                  "order": 0,
+                  "url": "/uploads/videos/1750497124845-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T09:12:04.852Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1750446191595",
+      "name": "دروس مكثفة",
+      "section": "intensive",
+      "image": "1750446191409.jpeg",
+      "units": [
+        {
+          "id": "1750496284494",
+          "name": "الوحدة الأولى",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "1750512028256",
+              "name": "Test",
+              "description": "Rs",
+              "order": 0,
+              "isFree": false,
+              "videos": [
+                {
+                  "id": "1750512032795",
+                  "title": "Test",
+                  "description": "Rs",
+                  "order": 0,
+                  "url": "/uploads/videos/1750512032784-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T13:20:32.795Z"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1750511993837",
+          "name": "Test",
+          "order": 2,
+          "lessons": [
+            {
+              "id": "1750512009731",
+              "name": "Test",
+              "description": "Test",
+              "order": 0,
+              "isFree": true,
+              "videos": [
+                {
+                  "id": "1750512012029",
+                  "title": "Test",
+                  "description": "Test",
+                  "order": 0,
+                  "url": "/uploads/videos/1750512012015-VID_20250618_232248.mp4",
+                  "duration": 0,
+                  "size": 3822712,
+                  "format": "mp4",
+                  "uploadDate": "2025-06-21T13:20:12.029Z"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
